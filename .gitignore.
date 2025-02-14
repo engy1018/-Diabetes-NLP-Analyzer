@@ -1,1 +1,12 @@
+Thumbs.db
+ehthumbs.db
+.vscode/
+node_modules/
+*.cab
+*.msi
+*.bak
+*.swp
+*.tmp
+*.log
+csv_files/
 
